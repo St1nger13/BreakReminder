@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BreakReminder:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BreakReminder_jar</output-path>
+    <root id="archive" name="BreakReminder.jar">
+      <element id="module-output" name="BreakReminder" />
+    </root>
+  </artifact>
+</component>
